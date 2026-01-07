@@ -8,7 +8,7 @@ export default function Footer() {
           <h3 className="text-xl font-bold text-white mb-3">
             PoemVerse ✍️
           </h3>
-          <p className="text-sm leading-relaxed">
+          <p className="text-sm text-white leading-relaxed">
             A place to write, share, and feel poetry.
             Express your thoughts and connect through words.
           </p>
@@ -19,17 +19,17 @@ export default function Footer() {
           <h4 className="text-white font-semibold mb-3">Quick Links</h4>
           <ul className="space-y-2 text-sm">
             <li>
-              <a href="/" className="hover:text-white transition">
+              <a href="/" className="text-white transition">
                 Home
               </a>
             </li>
             <li>
-              <a href="/explore" className="hover:text-white transition">
+              <a href="/explore" className="text-white transition">
                 Explore
               </a>
             </li>
             <li>
-              <a href="/create" className="hover:text-white transition">
+              <a href="/create" className="text-white transition">
                 Write a Poem
               </a>
             </li>
@@ -40,9 +40,9 @@ export default function Footer() {
         <div>
           <h4 className="text-white font-semibold mb-3">Connect</h4>
           <div className="flex gap-4 text-lg">
-            <a href="#" className="hover:text-white transition">🐦</a>
-            <a href="#" className="hover:text-white transition">📘</a>
-            <a href="#" className="hover:text-white transition">📸</a>
+            <a href="#" className="text-white transition">🐦</a>
+            <a href="#" className="text-white transition">📘</a>
+            <a href="#" className="text-white transition">📸</a>
           </div>
         </div>
 
