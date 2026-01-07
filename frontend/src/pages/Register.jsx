@@ -19,7 +19,7 @@ export default function Register() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br">
-      <div className="bg-white p-8 rounded-xl shadow-xl w-full max-w-md">
+      <div className="bg-[#FFF1CB] p-8 rounded-xl shadow-xl w-full max-w-md">
         <h2 className="text-2xl font-bold text-center mb-6">Create Account</h2>
 
         <input
